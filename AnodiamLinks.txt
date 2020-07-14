@@ -1,0 +1,34 @@
+Payment Gateway for Java
+
+----------------------------
+----------------------------------------------
+https://github.com/GenesisGateway/genesis_java
+
+Payment 
+
+Gateway for Android
+
+--------------------------------------------------------------------------
+https://github.com/GenesisGateway/android_sdk
+
+Payment 
+
+Gateway for NodeJs
+
+----------------------------
+----------------------------------------------
+https://github.com/GenesisGateway/genesis.js
+
+
+https://www.emerchantpay.com/insights/payment-gateway-integration/
+
+
+Payment with Paypal 
+--------------------------------------------------------------------------
+https://www.youtube.com/watch?v=GykDyG0ELms
+
+
+React JS
+--------------------------------------------------------------------------
+https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
+
